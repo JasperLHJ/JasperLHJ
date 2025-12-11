@@ -127,15 +127,6 @@ Architecture: RESTful APIs, Microservices
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasperlhj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00DC82&icon_color=4FC08D&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasperlhj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DC82&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasperlhj&theme=tokyonight&hide_border=true&background=0D1117&ring=00DC82&fire=4FC08D&currStreakLabel=00DC82" alt="jasperlhj" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasperlhj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FC08D&line=00DC82&point=c9d1d9" />
 </div>
 
