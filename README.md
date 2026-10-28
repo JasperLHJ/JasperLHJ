@@ -18,7 +18,7 @@
 
 ```typescript
 const jasper = {
-  role: "Full Stack Engineer",
+  role: "Backend Engineer",
   company: "AN Group",
   location: "Selangor, Malaysia",
   currentFocus: ["AN Group projects", "Freelance client projects"],
