@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jasper%20Lee&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<h3 align="center">⚡ TypeScript Full Stack Engineer @ AN Group ⚡</h3>
+<h3 align="center">⚡ Backend Developer @ AN Group ⚡</h3>
 <h4 align="center">🇲🇾 Selangor, Malaysia · 💼 Available for freelance projects</h4>
 
 <div align="center">
